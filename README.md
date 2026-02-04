@@ -61,7 +61,7 @@ I am a **Junior Software Developer** with a solid foundation in software enginee
 <!-- | Project | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :--- |
  -->
-## 📊 GitHub Statistics
+<!-- ## 📊 GitHub Statistics
 
 <div align="center">
   <a href="https://github.com/enekomb">
@@ -75,3 +75,4 @@ I am a **Junior Software Developer** with a solid foundation in software enginee
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=enekomb&theme=radical" alt="Streak Stats" />
 </div>
+ -->
