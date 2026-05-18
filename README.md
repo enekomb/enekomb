@@ -1,4 +1,4 @@
-# Hi, I'm Eneko Munoz
+# Hi, I'm Eneko Muñoz
 
 **Junior Software Developer** - C/C++ Systems | Full-Stack Web
 
