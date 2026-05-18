@@ -1,78 +1,73 @@
-# Hi there 👋, I'm Eneko Muñoz
+# Hi, I'm Eneko Muñoz 👋
 
-I am a **Junior Software Developer** with a solid foundation in software engineering principles, including algorithms, data structures, and memory management. I have completed the **Common Core at 42 Urduliz** and have experience in full-stack web development with the **MERN Stack**.
+**Junior Software Developer** · C/C++ Systems · Full-Stack Web  
+📍 Bilbao, Spain · 📧 enekomunoz@gmail.com · [LinkedIn](https://www.linkedin.com/in/eneko-munoz-bordona)
 
-## 👨‍🎓 About Me & Education
+---
 
-*   🎓 **Education**:
-    *   **42 Urduliz** (Software Engineering Equivalent Training)
-    *   **CODE4JOBS** (Full-Stack JavaScript Developer)
-*   💻 **Skills**: C, C++, JavaScript (ES6+), TypeScript, React, Node.js, Express.js, Docker, SQL, MongoDB, Git, Linux.
-*   🔭 **Currently working on**: Specialization at 42 Urduliz.
-*   📫 **How to reach me**: [enekomunoz@gmail.com](mailto:enekomunoz@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eneko-munoz)
+## About me
 
-<!-- ## 💼 Professional Experience
+Software developer trained at **42 Urduliz** with 1,000+ hours of intensive programming in high-demand environments.  
+My core focus is **low-level systems programming in C and C++**: memory management, concurrency, network sockets, and building robust, production-quality software.  
+Complementary experience in full-stack web development (MERN Stack, TypeScript, Docker).
 
-| Role | Company | Date |
-| :--- | :--- | :--- |
-| **WordPress Developer** | Vinilos Gran Canaria | Feb 2025 - Jun 2025 |
-| **.NET Developer** | Oesía Group | Feb 2022 - Apr 2022 |
-| **WooCommerce Store Manager** | theonesixco | Jun 2021 - Oct 2021 | -->
+---
 
-## 🚀 Highlighted Projects
+## Tech Stack
 
-### 🚀 CODE4JOBS
+**Systems & Low-level**  
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-> **Overview:** A professional training program focused on bridging the gap between academic knowledge and industry requirements, emphasizing real-world coding practices.
+**Infrastructure**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Makefile](https://img.shields.io/badge/Makefile-064F8C?style=flat)
 
-<!-- | Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **CoWorkoholics** | Room management and reservation system for a real client. Features interactive floor plans and calendar sync. | `React`, `Express.js` | View Code |
-| **ComicSants** | Internal stock management and POS system for hobby stores. Includes invoice generation and sales statistics. | `Node.js`, `MongoDB`, `Google Charts` | View Code | -->
+**Web (complementary)**  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-### 🚀 42 Urduliz Piscine
+---
 
-> **Overview:** An intensive 4-week selection bootcamp. The curriculum focuses on the absolute basics of Computer Science, memory manipulation, and peer-to-peer learning.
+## Featured Projects
 
-<!-- | Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **Shell 00 & 01** | Introduction to Shell scripting, command-line interface, and file system navigation. | `Bash`, `Shell` | View Code |
-| **C 00 - C 06** | Fundamental C programming concepts: loops, functions, pointers, memory allocation, and strings. | `C` | View Code |
-| **Rush Projects** | Group projects developed with peers under strict time constraints to solve algorithmic challenges. | `C` | View Code | -->
+### 🔌 [ft_irc](https://github.com/enekomb/ft_irc) — IRC Server in C++
+Fully functional IRC server following the RFC standard protocol.  
+**TCP sockets · Multi-client concurrency · Error handling · Scalable architecture**
 
-### 🚀 42 Urduliz Common Core
+### 🐚 [MiniShell](https://github.com/enekomb/minishell) — UNIX Shell in C
+UNIX command interpreter replicating core bash behavior.  
+**Process management · Pipes · Redirections · UNIX signals · Dynamic memory**
 
-> **Overview:** The main curriculum of 42 School. It involves rigorous peer-reviewed projects covering algorithms, low-level programming, graphics, and system administration.
+### 🎮 [Cub3D](https://github.com/enekomb/cub3d) — 3D Raycasting Engine in C
+Real-time 3D rendering engine inspired by classic game engines.  
+**Raycasting · Real-time rendering · Performance optimization**
 
-<!-- | Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
-| **ft_irc** | Fully functional IRC server handling multiple clients and channels via TCP sockets. | `C++` | View Code |
-| **Cub3D** | 3D graphics engine using raycasting techniques, inspired by Wolfenstein 3D. | `C`, `MinilibX` | View Code |
-| **MiniShell** | A UNIX-like command interpreter with pipes, redirections, and signal handling. | `C` | View Code |
-| **Libft** | Creating a custom C library of standard functions to be used in future projects. | `C`, `Makefile` | View Code |
-| **ft_printf** | Recoding the printf function. Learn about variadic arguments. | `C` | View Code |
-| **get_next_line** | Reading a line from a file descriptor. Static variables and memory management. | `C` | View Code |
-| **ft_transcendence** | Full-stack web application with real-time Pong game, chat, and authentication. | `TypeScript`, `Docker`, `SQL` | View Code | -->
+### 🌐 [CoWorkoholics](https://github.com/enekomb/CoWorkoholics) — Full-Stack Web App
+Coworking room booking platform built for a real client.  
+**React · Express.js · Prisma · SQLite · Interactive floor plans**
 
-### 🚀 42 Urduliz Outer Core
+---
 
-> **Overview:** The advanced stage of the curriculum allowing for specialization.
+## Education
 
-<!-- | Project | Description | Tech Stack | Link |
-| :--- | :--- | :--- | :--- |
- -->
-<!-- ## 📊 GitHub Statistics
+| | |
+|---|---|
+| **42 Urduliz** — Telefónica | Common Core completed · Nov 2022 – Present |
+| **CODE4JOBS** — Full-Stack JavaScript | Bilbao · Oct – Dec 2021 |
 
-<div align="center">
-  <a href="https://github.com/enekomb">
-    <img src="https://github-readme-stats.vercel.app/api?username=enekomb&show_icons=true&theme=radical&count_private=true" height="180" alt="Eneko's GitHub Stats" />
-  </a>
-  <a href="https://github.com/enekomb">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enekomb&layout=compact&theme=radical" height="180" alt="Top Languages" />
-  </a>
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=enekomb&theme=radical" alt="Streak Stats" />
-</div>
- -->
+## GitHub Stats
+
+![Eneko's GitHub stats](https://github-readme-stats.vercel.app/api?username=enekomb&show_icons=true&theme=default&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=enekomb&layout=compact&theme=default&hide_border=true&langs_count=6)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=enekomb&color=blue&style=flat)
