@@ -57,8 +57,10 @@ Trained at **42 Urduliz** — 1,000+ hours, no teachers, no traditional classes,
 ## 📊 Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=enekomb&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enekomb&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  <img src="https://streak-stats.demolab.com/?user=enekomb&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=enekomb&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </div>
 
 ---
